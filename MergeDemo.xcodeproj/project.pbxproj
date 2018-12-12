@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4623463B21C0F010008E13D7 /* AFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 4623463A21C0F010008E13D7 /* AFile.m */; };
 		462F9C8A21C0EF4600ADD9FD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 462F9C8921C0EF4600ADD9FD /* AppDelegate.m */; };
 		462F9C8D21C0EF4600ADD9FD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 462F9C8C21C0EF4600ADD9FD /* ViewController.m */; };
 		462F9C9021C0EF4600ADD9FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 462F9C8E21C0EF4600ADD9FD /* Main.storyboard */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4623463921C0F010008E13D7 /* AFile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AFile.h; sourceTree = "<group>"; };
+		4623463A21C0F010008E13D7 /* AFile.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AFile.m; sourceTree = "<group>"; };
 		462F9C8521C0EF4600ADD9FD /* MergeDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MergeDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		462F9C8821C0EF4600ADD9FD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		462F9C8921C0EF4600ADD9FD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -67,6 +70,8 @@
 				462F9C9321C0EF4800ADD9FD /* LaunchScreen.storyboard */,
 				462F9C9621C0EF4800ADD9FD /* Info.plist */,
 				462F9C9721C0EF4800ADD9FD /* main.m */,
+				4623463921C0F010008E13D7 /* AFile.h */,
+				4623463A21C0F010008E13D7 /* AFile.m */,
 			);
 			path = MergeDemo;
 			sourceTree = "<group>";
@@ -144,6 +149,7 @@
 				462F9C8D21C0EF4600ADD9FD /* ViewController.m in Sources */,
 				462F9C9821C0EF4800ADD9FD /* main.m in Sources */,
 				462F9C8A21C0EF4600ADD9FD /* AppDelegate.m in Sources */,
+				4623463B21C0F010008E13D7 /* AFile.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
