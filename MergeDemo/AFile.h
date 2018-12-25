@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,retain) NSString *name;
 
 @property (nonatomic,retain) NSString *age;
+
+@property (nonatomic,retain) NSString *country;
 @end
 
 NS_ASSUME_NONNULL_END
