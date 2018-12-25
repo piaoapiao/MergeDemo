@@ -26,6 +26,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 
 @property (nonatomic,assign)  int BranchMcommit1;
+@property (nonatomic,assign)  int BranchMcommit2;
 
 
 @end
