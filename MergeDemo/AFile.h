@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface AFile : NSObject
-
+@property (nonatomic,retain) NSString *name;
 @end
 
 NS_ASSUME_NONNULL_END
