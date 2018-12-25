@@ -16,6 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic,assign)  int BranchJcommit1;
 @property (nonatomic,assign)  int BranchJcommit2;
+@property (nonatomic,assign)  int BranchJcommit3;
 @end
 
 NS_ASSUME_NONNULL_END
