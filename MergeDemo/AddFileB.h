@@ -13,6 +13,8 @@ NS_ASSUME_NONNULL_BEGIN
 @interface AddFileB : NSObject
 @property (nonatomic,assign)  int a;
 @property (nonatomic,assign)  int b;
+
+@property (nonatomic,assign)  int BranchJcommit1;
 @end
 
 NS_ASSUME_NONNULL_END
