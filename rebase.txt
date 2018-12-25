@@ -1,0 +1,20 @@
+git rebase BranchJ
+
+git rebase BranchJ  BranchK
+
+处理冲突
+git add .
+
+git rebase --continue
+
+处理冲突
+git add .
+
+git rebase --continue
+
+
+git  checkout  分支A
+
+git rebase master  
+
+然后git add .   ,git rebase --contunue 处理
