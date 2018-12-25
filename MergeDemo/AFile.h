@@ -20,6 +20,11 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,retain) NSString *BranchFCommit1;
 
 @property (nonatomic,retain) NSString *BranchFCommit2;
+
+@property (nonatomic,retain) NSString *branchECommit1;
+
+@property (nonatomic,retain) NSString *branchECommit2;
+
 @end
 
 NS_ASSUME_NONNULL_END
