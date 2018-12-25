@@ -18,6 +18,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,retain) NSString *country;
 
 @property (nonatomic,retain) NSString *branchECommit1;
+
+@property (nonatomic,retain) NSString *branchECommit2;
 @end
 
 NS_ASSUME_NONNULL_END
