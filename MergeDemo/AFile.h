@@ -16,6 +16,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,retain) NSString *age;
 
 @property (nonatomic,retain) NSString *country;
+
+@property (nonatomic,retain) NSString *BranchFCommit1;
 @end
 
 NS_ASSUME_NONNULL_END
