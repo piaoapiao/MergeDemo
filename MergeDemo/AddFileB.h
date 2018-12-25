@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface AddFileB : NSObject
-
+@property (nonatomic,assign)  int a;
 @end
 
 NS_ASSUME_NONNULL_END
