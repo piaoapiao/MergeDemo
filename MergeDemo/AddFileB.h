@@ -20,8 +20,12 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,assign)  int BranchJcommit3;
 @property (nonatomic,assign)  int BranchKcommit1;
 @property (nonatomic,assign)  int BranchKcommit2;
+
 @property (nonatomic,assign)  int BranchLcommit1;
 @property (nonatomic,assign)  int BranchLcommit2;
+
+
+@property (nonatomic,assign)  int BranchMcommit1;
 
 
 @end
